@@ -11,17 +11,7 @@
 - Tools: Git, VS Code, Figma
 
 📂 **Projects**
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Portfolio Website](https://github.com/eniyaeni/portfolio) | Personal portfolio site | HTML, CSS, JS |
-| [AI Chatbot](https://github.com/eniyaeni/ai-chatbot) | Basic chatbot using Python | Python |
-
-📫 **Connect with me**
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/eniyaeni)
-- [Email](mailto:your-email@gmail.com)
-
-⭐ _“Code is like humor. When you have to<!-- 👋 Hi Section -->
+|<!-- 👋 Hi Section -->
 <h1 align="center">👋 Hi, I'm Eniya!</h1>
 <h3 align="center">💻 Cybersecurity Enthusiast | 🎓 Student | 🚀 National Expo Winner</h3>
 
