@@ -76,3 +76,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eniyaeni&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
+syntax = "proto3";
+
+message Portfolio {
+  string name = 1;
+  string email = 2;
+  repeated Project projects = 3;
+}
+
+message Project {
+  string title = 1;
+  string description = 2;
+  string github_url = 3;
+}
